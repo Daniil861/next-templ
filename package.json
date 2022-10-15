@@ -1,0 +1,19 @@
+{
+	"name": "next-test-proj",
+	"version": "1.0.0",
+	"description": "next",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"author": "igor danchenko",
+	"license": "ISC",
+	"dependencies": {
+		"next": "^12.3.1",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"sass": "^1.55.0"
+	}
+}
